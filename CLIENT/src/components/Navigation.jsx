@@ -29,9 +29,7 @@ const Navigation = () => {
                             </Button>
                         </NavLink>
                         <NavDropdown title="MENU" id="basic-nav-dropdown">
-                            <NavDropdown.Item href="#action/3.1">
                                 <NavLink to='/carrito'>🛒 Total $</NavLink>
-                            </NavDropdown.Item>
                         </NavDropdown>
                     </Nav>
                 </Navbar.Collapse>
